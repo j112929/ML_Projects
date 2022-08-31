@@ -1,6 +1,7 @@
 # ML_Projects
 
 ## Introduction
+```
 1.Titanic Survival Exploration
 2.Predicting Boston Housing Prices
 3.Finding Donors for CharityML
@@ -8,3 +9,4 @@
 5.Robots run Mazes-Q-learning Maze
 6.Dog Breed Classifier
 7.Dogs vs Cats
+```
