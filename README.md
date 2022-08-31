@@ -1,6 +1,9 @@
 # ML_Projects
 
 ## Introduction
+This is a group of Machine Learning projects with Python.
+
+
 ```
 1.Titanic Survival Exploration
 2.Predicting Boston Housing Prices
