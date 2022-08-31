@@ -1,4 +1,13 @@
+<p align="center" >
+    <h3 align="center">ML_Projects</h3>
+    <p align="center">
+        This is a group of Machine Learning projects with Python.
+    </p>
+</p>
+
+
 # ML_Projects
+
 
 ## Introduction
 This is a group of Machine Learning projects with Python.
